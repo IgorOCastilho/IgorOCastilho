@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Igor Castilho
 
-<!--
-**IgorOCastilho/IgorOCastilho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+📚 Aprendendo Python, Git, lógica de programação, HTML e muito mais  
+🚀 Em busca do meu primeiro estágio na área de tecnologia  
+🔧 Mecânico de bikes nas horas vagas e apaixonado por desafios
 
-Here are some ideas to get you started:
+## 💡 Habilidades em desenvolvimento:
+- Python básico
+- Git e GitHub
+- HTML e CSS iniciante
+- VSCode e lógica de programação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📁 Projetos que estou desenvolvendo:
+- Calculadora com Python
+- Exercícios de lógica
+- Mini sistemas em terminal
+
+## 📫 Contato:
+- Email: igorolivercastilho@gmail.com
+- LinkedIn: (https://www.linkedin.com/in/igor-oliveira-castilho/)
+- GitHub: [https://github.com/IgorOCastilho](https://github.com/IgorOCastilho)
