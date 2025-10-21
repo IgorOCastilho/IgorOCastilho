@@ -13,6 +13,10 @@
 
 ## 📁 Projetos que estou desenvolvendo:
 - Calculadora com Python
+- Jogo de Adivinhação (Python)
+
+## 📁 Projetos prontos:
+- Calculadora com Python
 - Exercícios de lógica
 - Mini sistemas em terminal
 
